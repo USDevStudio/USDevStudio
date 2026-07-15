@@ -39,7 +39,7 @@ Building modern, responsive and premium websites with Next.js, React and TypeScr
 
 ## 🌐 Portfolio
 
-🚀 **Live Website:** https://usdev-portfolio.vercel.app/
+🚀 **Live Website:** https://usdev-portfolio.vercel.app
 
 ---
 
