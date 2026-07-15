@@ -45,14 +45,24 @@ Building modern, responsive and premium websites with Next.js, React and TypeScr
 
 ## 📫 Connect With Me
 
-LinkedIn:
-https://www.linkedin.com/in/ubaid-ur-rehman-885b1a419/
+<p align="center">
 
-GitHub:
-https://github.com/USDevStudio
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-Instagram:
-https://www.instagram.com/ubaid_ur5/
+</a>
+
+<a href="https://github.com/USDevStudio">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</p>
 
 ---
 
