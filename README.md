@@ -39,7 +39,7 @@ Building modern, responsive and premium websites with Next.js, React and TypeScr
 
 ## 🌐 Portfolio
 
-🚀 **Live Website:** https://your-portfolio.vercel.app
+🚀 **Live Website:** https://usdev-portfolio.vercel.app/
 
 ---
 
@@ -47,19 +47,20 @@ Building modern, responsive and premium websites with Next.js, React and TypeScr
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/ubaid-ur-rehman-885b1a419/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
-<a href="https://github.com/USDevStudio">
+<a href="https://github.com/USDevStudio" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://www.instagram.com/ubaid_ur5/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
+<a href="mailto:shafiqubaid4@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
