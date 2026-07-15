@@ -1,5 +1,7 @@
 # Hi 👋 I'm Ubaid Ur Rehman
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1800&color=F4C542&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Building+Premium+Websites;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript;Founder+of+USDevStudio)](https://git.io/typing-svg)
+
 ### Full Stack Web Developer
 
 Building modern, responsive and premium websites with Next.js, React and TypeScript.
