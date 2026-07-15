@@ -65,3 +65,10 @@ https://www.instagram.com/ubaid_ur5/
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=USDevStudio&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=USDevStudio&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
