@@ -58,3 +58,10 @@ https://www.instagram.com/ubaid_ur5/
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=USDevStudio&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=USDevStudio&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=USDevStudio&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
